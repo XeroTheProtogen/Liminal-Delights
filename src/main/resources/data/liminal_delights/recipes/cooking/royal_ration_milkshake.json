@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_type": "drinks",
+  "ingredients": [
+    {
+      "item": "liminal_delights:diced_royal_ration"
+    },
+    {
+      "item": "liminal_delights:lucky_milk"
+    }
+  ],
+  "result": {
+    "item": "liminal_delights:royal_milkshake"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.4,
+  "cookingtime": 250
+}

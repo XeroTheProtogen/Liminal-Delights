@@ -1,0 +1,11 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/spider"
+    }
+  ],
+  "drop": "liminal_delights:spider_meat",
+  "amount": 1,
+  "type": "liminal_delights:meat_from_spider"
+}
